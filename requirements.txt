@@ -1,0 +1,5 @@
+asyncio==3.4.3
+discord.py==2.1.0
+discord==2.1.0
+PyYAML==6.0
+jsons==1.6.3
